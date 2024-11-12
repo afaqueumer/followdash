@@ -14,7 +14,7 @@ followers_data = {"LinkedIn": "0",
 
 show_metrics = False
 
-st.title("👥 Followers Dashboard")
+st.title("Followers Dashboard 👥")
 st.divider()
 
 
